@@ -48,6 +48,7 @@ public class Abstractclass {
         System.out.println();
         emp2.displayInfo();
         System.out.println("Salary: "+emp2.calculateSalary());
+        System.out.println("Git Demo");
     }
 
     
